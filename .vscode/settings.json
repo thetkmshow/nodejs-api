@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d8484591-f280-4bf2-8455-9ceec0f0882b/resourceGroups/vso-rg-14688ec/providers/Microsoft.Web/sites/tkmshow-api",
+    "appService.deploySubpath": "."
+}
