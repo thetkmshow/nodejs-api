@@ -12,7 +12,7 @@ app.use(require('./routes/index.routes'))
 app.use(morgan('tiny'))
 // First route
 app.get('/', (req, res) => {
-    res.json({ message: 'Hello world' })
+    res.json({ message: 'Hello worlds' })
 })
 // Starting server
 app.listen('1337')
