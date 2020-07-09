@@ -7,13 +7,21 @@
           "dest": "/index.js",
           "methods": ["GET"]
         },
-        
+        {
+          "src": "/listen/(?<slug>[^/]+)",
+          "dest": "/index.js",
+          "methods": ["GET"]
+        },
         {
             "src": "/playlist",
             "dest": "/index.js",
             "methods": ["GET"]
           },
-      
+          {
+            "src": "/playlist/(?<slug>[^/]+)",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
           {
             "src": "/settings",
             "dest": "/index.js",
@@ -24,18 +32,6 @@
             "dest": "/index.js",
             "methods": ["GET"]
           }
-      ],
-    "rewrites": [
-        {
-            "source": "/listen/:slug",
-            "destination": "/index.js"
-            
-          },
-          {
-            "source": "/playlist/:slug",
-            "destination": "/index.js"
-            
-          }
-       
-    ]
+      ]
+      
   }
