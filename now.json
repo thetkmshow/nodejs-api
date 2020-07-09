@@ -28,13 +28,13 @@
     "rewrites": [
         {
             "source": "/listen/:slug",
-            "destination": "/index.js",
-            "methods": ["GET"]
+            "destination": "/index.js"
+            
           },
           {
             "source": "/playlist/:slug",
-            "destination": "/index.js",
-            "methods": ["GET"]
+            "destination": "/index.js"
+            
           }
        
     ]
