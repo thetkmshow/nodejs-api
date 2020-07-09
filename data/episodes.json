@@ -1,0 +1,24 @@
+[ 
+    
+    { "id": 1,
+      "title":"Ith Okke Enth?",
+      "slug": "ith-okke-yenth",
+      "publishedAtDate":"2020-06-22",
+      "publishedAtTime":"19:21:19",
+      "content": "One amazes TKM with his photographs and the other makes TKM laugh with her illustrations. We bring to you the two hot topics under the minarets, Razal Riyaz and Kuruvi.",
+      "URL": "https://anchor.fm/s/249bf89c/podcast/play/15538282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-22%2F84331900-44100-2-658dafa754e8b.mp3",
+      "duration" :"21:19 Min",
+      "cover" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/6042015/6042015-1592819986875-5c19fcdbb24a.jpg"
+    },
+    {
+      "id": 2,
+      "title":"Ormayundo ee Mugham?.",
+      "slug": "ormayundo-ee-mugham",
+      "publishedAtDate":"2020-06-11",
+      "publishedAtTime":"19:23:03",
+      "content": "One of the architects behind Hestia'19, The Ex G-Sec and a name familiar to the majority of TKMians, in our first episode 'Ormayundo ee mugham?' we bring to you TKM's very own Aswin P S. Listen to Aswin share his memories of TKM, what he has been upto during lockdown and many more. ",
+      "URL": "https://anchor.fm/s/249bf89c/podcast/play/15000371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-10%2F81130771-44100-2-1db45295d1a6c.mp3",
+      "duration" :"23:03 Min",
+      "cover" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/6042015/6042015-1591809970938-f637b4b732133.jpg"
+    }
+  ]

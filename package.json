@@ -1,0 +1,31 @@
+{
+  "name": "tkmshow-api",
+  "version": "1.0.0",
+  "description": "api for tkmshow.in",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmnidhin/t4lk135-server.git"
+  },
+  "keywords": [
+    "tkm",
+    "api"
+  ],
+  "author": "bmnidhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmnidhin/t4lk135-server/issues"
+  },
+  "homepage": "https://github.com/bmnidhin/t4lk135-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}

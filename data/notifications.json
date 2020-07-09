@@ -1,0 +1,19 @@
+
+[
+    { 
+      "isCountDownOrStreamingLiveActive": true,
+      "upComingEventName": "Ith Okke Yenth",
+       
+      "isPostersShown":true,
+      
+      "eventDate":"22","eventMonth":"06","eventYear":"2020",
+      "hour":"19","minutes":"00",
+
+      "isbannerOn":true,
+      "publishBannerAt":"",
+      
+      "isNotificationPanelShown":false,
+      "notification" :"Ith okke yenth? is streaming Live" 
+    
+    }]
+  

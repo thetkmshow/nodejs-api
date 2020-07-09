@@ -1,0 +1,36 @@
+{
+    "version": 2,
+    "builds": [{ "src": "index.js", "use": "@now/node-server" }],
+    "routes": [
+        {
+          "src": "/listen",
+          "dest": "/index.js",
+          "methods": ["GET"]
+        },
+        {
+          "src": "/listen/:slug",
+          "dest": "/index.js",
+          "methods": ["GET"]
+        },
+        {
+            "src": "/playlist",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/playlist/:slug",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/settings",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/notifications",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          }
+      ]
+  }
