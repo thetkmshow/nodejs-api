@@ -17,9 +17,10 @@ app.use(express.urlencoded({ extended: false }));
 // Morgan
 app.use(morgan('tiny'))
 
+var html = "<!DOCTYPE html>\n<html>\n    <head>\n    </head>\n <body>\n      <h1>TKMSHOW EXPRESS REST API</h1>\n  \n <h3>API ENDPOINTS</h3> <script src='https://gist.github.com/bmnidhin/2b6b06974246a2a8254061383b0ba726.js'></script></body>\n</html>";
 // Home route
 app.get("/", (req, res) => {
-    res.send("Welcome to a basic express App");
+    res.send(html);
   });
 
 /* All posts */
