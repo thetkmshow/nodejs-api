@@ -2,8 +2,8 @@
 [
     { 
       "isCountDownOrStreamingLiveActive": true,
-      "countDownTo":"2020-10-12T21:00:00",
-      "upComingEventName": "Aaarada ath?",
+      "countDownTo":"2020-10-12T21:00:00Z",
+      "upComingEventName": "Ith Okke Yenth",
        
       "isPostersShown":true,
       
