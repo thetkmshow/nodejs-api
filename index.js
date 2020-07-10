@@ -1,7 +1,7 @@
 const express = require("express");
 const morgan = require('morgan')
 const app = express();
-
+const cors = require('cors');
 const port = 5000;
 const episodes = './data/episodes.json'
 const crowd = './data/playlists.json'
@@ -11,6 +11,8 @@ let playlist = require(crowd)
 let notifications = require("./data/notifications.json")
 let settings = require("./data/settings.json")
 
+
+app.use(cors());
 // Body parser
 app.use(express.urlencoded({ extended: false }));
 
