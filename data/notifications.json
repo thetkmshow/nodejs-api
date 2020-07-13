@@ -2,14 +2,15 @@
 [
     { 
       "isCountDownOrStreamingLiveActive": true,
-      "countDownTo":"2020-10-12T21:00:00Z",
+      "eventDate":"22","eventMonth":"06","eventYear":"2020",
+      "hour":"19","minutes":"00",
+      
       "upComingEventName": "Ith Okke Yenth",
        
       "isPostersShown":true,
       
       
-      "eventDate":"22","eventMonth":"06","eventYear":"2020",
-      "hour":"19","minutes":"00",
+      
 
       "isbannerOn":true,
       "publishBannerAt":"",
