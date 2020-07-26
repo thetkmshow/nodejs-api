@@ -1,7 +1,7 @@
 
 [
     { 
-      "isCountDownOrStreamingLiveActive": false,
+      "isCountDownOrStreamingLiveActive": true,
       "eventDate":"27","eventMonth":"07","eventYear":"2020",
       "hour":"19","minutes":"00",
       
