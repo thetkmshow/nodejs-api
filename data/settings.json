@@ -1,12 +1,3 @@
 [
-    {
-        "streamURL":"https://streaming.radio.co/s8c7294f48/listen",
-        
-        "posterImgOne":"https://bmnidhin.github.io/t4lk-static/s1/pani.jpg",
-        "posterImgTwo":"https://bmnidhin.github.io/t4lk-static/minaranhgal.jpg",
-        "bannerImg":"https://bmnidhin.github.io/t4lk135-server/images/banner.jpg",
-        
-        "HerotextEng":"A place where TKM's voice reigns free!!",
-        "HerotextMal":""
-    }
+   'depricated - use notifications.json'
 ]
