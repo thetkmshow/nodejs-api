@@ -3,8 +3,8 @@
     { 
       "isCountDownOrStreamingLiveActive": true,
       "upComingEventName": "Pani Varunnund Avarachaa",
-      "upcomingEventDate":"01-08-2020",
-      "upcomingEventTime:"",
+      "publishedAtDate":"2020-07-27",
+      "publishedAtTime":"19:10:00",
       "posterImgOne":"https://bmnidhin.github.io/t4lk-static/s1/pani.jpg",
       "posterImgTwo":"https://bmnidhin.github.io/t4lk-static/minaranhgal.jpg",
       
@@ -22,4 +22,3 @@
       "notification" :"Event Postponed" 
     
     }]
-  
