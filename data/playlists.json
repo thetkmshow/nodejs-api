@@ -1,55 +1,22 @@
 [
     {
-      "playlistID":79,
+      "playlistID":01,
       "isPulished":true,
-      "title": "Episodes Demo",
-      "slug": "indian-top-ten",
-      "content": "This is the Hello World post. WordPress says edit or delete this kind of posts. I say just keep it.",
+      "title": "Playlist of TKM #1",
+      "slug": "playlist-of-tkm-one",
+      "content": "Playlist One",
       "album-art":"https://i.scdn.co/image/ab67706f00000002804274efbe5b1fcceae7336a",
       "songs" :  [
-                { "id": 1, "title": "Suno Na Sangemarmar- Arijt Singh", "duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F07-Suno.Na.Sangemarmar-(Remix)-Arijit.Singh.mp3?alt=media&token=9a880646-b496-44fe-87ed-3799c3828c78"},
-                { "id": 2, "title": "Na Na Na Na","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F09_-_Subha_Hone_Na_De_(Remix).mp3?alt=media&token=2491eab7-83ca-4a59-a2da-234720d23a63" },
-                { "id": 3, "title": "Aalolam","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAALOLAM_full_malayalam_song_2019___Love_Action_Drama_Songs___Vineeth_%2CNayantara__new_Malayalam_songs(256kbps).mp3?alt=media&token=04ba6a49-aaa6-4c00-ba5d-20a13350d0e3" },
-                { "id": 4, "title": "Aaradhike" ,"duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAaradhike_Video_Song___Soubin_Shahir___E4_Entertainment___Johnpaul_George(25.mp3?alt=media&token=66503a6f-e395-47d6-aebf-9de7c179c783"},
-                { "id": 5, "title": "Barbie","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAqua_-_Barbie_Girl_(1).mp3?alt=media&token=a4801a3f-bd0e-403f-88cf-5e0d1d00162e" },
-                { "id": 6, "title": "Baaha Kilikki","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FBahubali_2___Video_Song_Baha_KilikkiI_Sung__By_Smitha__FirstShow_Tollywood.mp3?alt=media&token=0868fef6-0fd2-414a-80df-8ede9fd2ac36" },
-                { "id": 7, "title": "Untitled" ,"duration":"10 Min","audio" :""}
-              ]
-
-    },
-    { 
-      "playlistID":32,
-      "isPulished":true,
-      "title": "Demo 2",
-      "slug": "demo-two",
-      "content": "This is the Hello World post. WordPress says edit or delete this kind of posts. I say just keep it.",
-      "album-art":"https://i.scdn.co/image/ab67706f00000002804274efbe5b1fcceae7336a",
-      "songs" :  [
-                { "id": 1, "title": "Suno Na Sangemarmar- Arijt Singh", "duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F07-Suno.Na.Sangemarmar-(Remix)-Arijit.Singh.mp3?alt=media&token=9a880646-b496-44fe-87ed-3799c3828c78"},
-                { "id": 2, "title": "Na Na Na Na","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F09_-_Subha_Hone_Na_De_(Remix).mp3?alt=media&token=2491eab7-83ca-4a59-a2da-234720d23a63" },
-                { "id": 3, "title": "Aalolam","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAALOLAM_full_malayalam_song_2019___Love_Action_Drama_Songs___Vineeth_%2CNayantara__new_Malayalam_songs(256kbps).mp3?alt=media&token=04ba6a49-aaa6-4c00-ba5d-20a13350d0e3" },
-                { "id": 4, "title": "Aaradhike" ,"duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAaradhike_Video_Song___Soubin_Shahir___E4_Entertainment___Johnpaul_George(25.mp3?alt=media&token=66503a6f-e395-47d6-aebf-9de7c179c783"},
-                { "id": 5, "title": "Barbie","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAqua_-_Barbie_Girl_(1).mp3?alt=media&token=a4801a3f-bd0e-403f-88cf-5e0d1d00162e" },
-                { "id": 6, "title": "Baaha Kilikki","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FBahubali_2___Video_Song_Baha_KilikkiI_Sung__By_Smitha__FirstShow_Tollywood.mp3?alt=media&token=0868fef6-0fd2-414a-80df-8ede9fd2ac36" },
-                { "id": 7, "title": "Untitled" ,"duration":"10 Min","audio" :""}
-              ]
-
-    },
-    {
-      "playlistID":72,
-      "isPulished":true,
-      "title": "Episodes Demo",
-      "slug": "demo-three",
-      "content": "This is the Hello World post. WordPress says edit or delete this kind of posts. I say just keep it.",
-      "album-art":"https://i.scdn.co/image/ab67706f00000002804274efbe5b1fcceae7336a",
-      "songs" :  [
-                { "id": 1, "title": "Suno Na Sangemarmar- Arijt Singh", "duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F07-Suno.Na.Sangemarmar-(Remix)-Arijit.Singh.mp3?alt=media&token=9a880646-b496-44fe-87ed-3799c3828c78"},
-                { "id": 2, "title": "Na Na Na Na","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2F09_-_Subha_Hone_Na_De_(Remix).mp3?alt=media&token=2491eab7-83ca-4a59-a2da-234720d23a63" },
-                { "id": 3, "title": "Aalolam","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAALOLAM_full_malayalam_song_2019___Love_Action_Drama_Songs___Vineeth_%2CNayantara__new_Malayalam_songs(256kbps).mp3?alt=media&token=04ba6a49-aaa6-4c00-ba5d-20a13350d0e3" },
-                { "id": 4, "title": "Aaradhike" ,"duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAaradhike_Video_Song___Soubin_Shahir___E4_Entertainment___Johnpaul_George(25.mp3?alt=media&token=66503a6f-e395-47d6-aebf-9de7c179c783"},
-                { "id": 5, "title": "Barbie","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FAqua_-_Barbie_Girl_(1).mp3?alt=media&token=a4801a3f-bd0e-403f-88cf-5e0d1d00162e" },
-                { "id": 6, "title": "Baaha Kilikki","duration":"10 Min","audio" :"https://firebasestorage.googleapis.com/v0/b/jetgreen-98863.appspot.com/o/music%2FBahubali_2___Video_Song_Baha_KilikkiI_Sung__By_Smitha__FirstShow_Tollywood.mp3?alt=media&token=0868fef6-0fd2-414a-80df-8ede9fd2ac36" },
-                { "id": 7, "title": "Untitled" ,"duration":"10 Min","audio" :""}
+                { "id": 1, "title": "Six feet - Gayathri R Serji CE'22", "duration":"02:00","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"},
+                { "id": 2, "title": "Kanchimmyio - Vishnupriya KJ EEE'21","duration":"01:27","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3" },
+                { "id": 3, "title": "Nee Himamazhayayi - Swati S Nair CS'22","duration":"02:08","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/03-neeHimamazha-swathi.mp3" },
+                { "id": 4, "title": "Cherathukal - Abinsob A B-Arch'21" ,"duration":"01:49","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/04-cherathukal-abinsob.mp3"},
+                { "id": 5, "title": "Mizhiyoram - Sreeparvathy P L ECE'22","duration":"02:18","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/05-mizhiyoram-SP.mp3" },
+                { "id": 6, "title": "Tere Bin - Midhun Surendran  MP'20","duration":"01:19","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/06-terebin-midhun.mp3" },
+                { "id": 7, "title": "Pal -Lekshmi S Lal CHE'23" ,"duration":"03:32","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/07-pal-lakshmiLal.mp3"},
+                { "id": 8, "title": "Speechless-Lakshmi S Jeeva ECE'23" ,"duration":"03:27","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/08-speechless-lakshmiJeeva.mp3"},
+                { "id": 9, "title": "Tharapadhamakey -Aiswarya Bimal ECE'223" ,"duration":"01:56","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/09-tarapadhamakey-aiswarya.mp3"},
+                { "id": 10, "title": "Khairiyat - Anurag MR MECH'21" ,"duration":"01:48","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/10-khairiyat-anurag.mp3"}
               ]
 
     }
