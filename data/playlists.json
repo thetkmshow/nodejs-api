@@ -1,23 +1,72 @@
 [
     {
-      "playlistID":01,
-      "isPulished":true,
-      "title": "Playlist of TKM #1",
-      "slug": "playlist-of-tkm-one",
-      "content": "Playlist One",
-      "album-art":"https://bmnidhin.github.io/t4lk-static/playlist/play-1/finalthumb2.jpg",
-      "songs" :  [
-                { "id": 1, "title": "Six feet - Gayathri R Serji CE'22", "duration":"02:00","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"},
-                { "id": 2, "title": "Kanchimmyio - Vishnupriya KJ EEE'21","duration":"01:27","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3" },
-                { "id": 3, "title": "Nee Himamazhayayi - Swati S Nair CS'22","duration":"02:08","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/03-neeHimamazha-swathi.mp3" },
-                { "id": 4, "title": "Cherathukal - Abinsob A B-Arch'21" ,"duration":"01:49","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/04-cherathukal-abinsob.mp3"},
-                { "id": 5, "title": "Mizhiyoram - Sreeparvathy P L ECE'22","duration":"02:18","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/05-mizhiyoram-SP.mp3" },
-                { "id": 6, "title": "Tere Bin - Midhun Surendran  MP'20","duration":"01:19","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/06-terebin-midhun.mp3" },
-                { "id": 7, "title": "Pal -Lekshmi S Lal CHE'23" ,"duration":"03:32","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/07-pal-lakshmiLal.mp3"},
-                { "id": 8, "title": "Speechless-Lakshmi S Jeeva ECE'23" ,"duration":"03:27","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/08-speechless-lakshmiJeeva.mp3"},
-                { "id": 9, "title": "Tharapadhamakey -Aiswarya Bimal ECE'223" ,"duration":"01:56","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/09-tarapadhamakey-aiswarya.mp3"},
-                { "id": 10, "title": "Khairiyat - Anurag MR MECH'21" ,"duration":"01:48","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/10-khairiyat-anurag.mp3"}
-              ]
+	"playlistID": 1,
+	"isPulished": true,
+	"title": "Playlist of TKM #1",
+	"slug": "playlist-of-tkm-one",
+	"content": "Playlist One",
+	"album-art": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/finalthumb2.jpg",
+	"songs": [{
+			"id": 1,
+			"title": "Six feet - Gayathri R Serji CE'22",
+			"duration": "02:00",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"
+		},
+		{
+			"id": 2,
+			"title": "Kanchimmyio - Vishnupriya KJ EEE'21",
+			"duration": "01:27",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3"
+		},
+		{
+			"id": 3,
+			"title": "Nee Himamazhayayi - Swati S Nair CS'22",
+			"duration": "02:08",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/03-neeHimamazha-swathi.mp3"
+		},
+		{
+			"id": 4,
+			"title": "Cherathukal - Abinsob A B-Arch'21",
+			"duration": "01:49",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/04-cherathukal-abinsob.mp3"
+		},
+		{
+			"id": 5,
+			"title": "Mizhiyoram - Sreeparvathy P L ECE'22",
+			"duration": "02:18",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/05-mizhiyoram-SP.mp3"
+		},
+		{
+			"id": 6,
+			"title": "Tere Bin - Midhun Surendran  MP'20",
+			"duration": "01:19",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/06-terebin-midhun.mp3"
+		},
+		{
+			"id": 7,
+			"title": "Pal -Lekshmi S Lal CHE'23",
+			"duration": "03:32",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/07-pal-lakshmiLal.mp3"
+		},
+		{
+			"id": 8,
+			"title": "Speechless-Lakshmi S Jeeva ECE'23",
+			"duration": "03:27",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/08-speechless-lakshmiJeeva.mp3"
+		},
+		{
+			"id": 9,
+			"title": "Tharapadhamakey -Aiswarya Bimal ECE'223",
+			"duration": "01:56",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/09-tarapadhamakey-aiswarya.mp3"
+		},
+		{
+			"id": 10,
+			"title": "Khairiyat - Anurag MR MECH'21",
+			"duration": "01:48",
+			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/10-khairiyat-anurag.mp3"
+		}
+	]
+}
 
-    }
-  ]
+]
