@@ -5,7 +5,7 @@
       "title": "Playlist of TKM #1",
       "slug": "playlist-of-tkm-one",
       "content": "Playlist One",
-      "album-art":"https://i.scdn.co/image/ab67706f00000002804274efbe5b1fcceae7336a",
+      "album-art":"https://bmnidhin.github.io/t4lk-static/playlist/play-1/finalthumb2.jpg",
       "songs" :  [
                 { "id": 1, "title": "Six feet - Gayathri R Serji CE'22", "duration":"02:00","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"},
                 { "id": 2, "title": "Kanchimmyio - Vishnupriya KJ EEE'21","duration":"01:27","audio" :"https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3" },
