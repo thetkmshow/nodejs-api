@@ -1,7 +1,7 @@
 [
     {
 	"playlistID": 1,
-	"isPublished": true,
+	"isPublished": false,
 	"title": "Playlist of TKM #1",
 	"slug": "playlist-of-tkm-one",
 	"content": "Playlist One",
