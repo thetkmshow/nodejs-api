@@ -1,140 +1,140 @@
 [{
-	"playlistID": 2,
-	"isPublished": false,
-	"title": "Playlist of TKM #2",
-	"slug": "playlist-of-tkm-two",
-	"content": "Playlist Two",
-	"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
-	"songs": [{
-			"id": 1,
-			"title": "All of the stars - Aparna Ajayy EEE'22",
-			"duration": "01:58",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/01-all-stars-aparna.mp3"
-		},
-		{
-			"id": 2,
-			"title": "Vaathil Melle - Amalu B Krishn EC'20",
-			"duration": "01:06",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/02-vaathil-melle-amalu.mp3"
-		},
-		{
-			"id": 3,
-			"title": "Vathikalu Vellaripravu - Saipriya S ECE'22",
-			"duration": "01:57",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/03-vathikalu-saipriya.mp3"
-		},
-		{
-			"id": 4,
-			"title": "Lailagame Cover- Emil Roy EEE'22",
-			"duration": "03:40",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/04-lilagame-emil.m4a"
-		},
-		{
-			"id": 5,
-			"title": "Aayiram kannumayi - Shwetha Susan Gibu ECE'22",
-			"duration": "02:51",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/05-inbound-swetha.mp3"
-		},
-		{
-			"id": 6,
-			"title": "Humsafar - Nourin N PG Civil",
-			"duration": "01:28",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/06-humsafar-nourin.mp3"
-		},
-		{
-			"id": 7,
-			"title": "Pudhu Vellai Mazhai - Akshay Kannan ECE'22",
-			"duration": "03:23",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/07-puthu-akshay.mp3"
-		},
-		{
-			"id": 8,
-			"title": "Kevala Marthyabhasha Kelkkatha - G Nandagopan	EEE'21",
-			"duration": "03:52",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/08-kevala-nandagopan.mp3"
-		},
-		{
-			"id": 9,
-			"title": "Before You Go - Jamie Ann Jacob ECE'23",
-			"duration": "02:23",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/09-okay-jamie.mp3"
-		},
-		{
-			"id": 10,
-			"title": "Raabta Title Track- Shine Kuttus Mech'21",
-			"duration": "02:04",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/10-rabta-kuttus.mp3"
-		}
-	]
-},
-    {
-	"playlistID": 1,
-	"isPublished": true,
-	"title": "Playlist of TKM #1",
-	"slug": "playlist-of-tkm-one",
-	"content": "Playlist One",
-	"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
-	"songs": [{
-			"id": 1,
-			"title": "Six feet - Gayathri R Serji CE'22",
-			"duration": "02:00",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"
-		},
-		{
-			"id": 2,
-			"title": "Mizhiyariyaathe - Vishnupriya KJ EEE'21",
-			"duration": "01:27",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3"
-		},
-		{
-			"id": 3,
-			"title": "Nee Himamazhayayi - Swati S Nair CS'22",
-			"duration": "02:08",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/03-neeHimamazha-swathi.mp3"
-		},
-		{
-			"id": 4,
-			"title": "Cherathukal - Abinsob A B-Arch'21",
-			"duration": "01:49",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/04-cherathukal-abinsob.mp3"
-		},
-		{
-			"id": 5,
-			"title": "Mizhiyoram - Sreeparvathy P L ECE'22",
-			"duration": "02:18",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/05-mizhiyoram-SP.mp3"
-		},
-		{
-			"id": 6,
-			"title": "Tere Bin - Midhun Surendran  MP'20",
-			"duration": "01:19",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/06-terebin-midhun.mp3"
-		},
-		{
-			"id": 7,
-			"title": "Pal -Lekshmi S Lal CHE'23",
-			"duration": "03:32",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/07-pal-lakshmiLal.mp3"
-		},
-		{
-			"id": 8,
-			"title": "Speechless-Lakshmi S Jeeva ECE'23",
-			"duration": "03:27",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/08-speechless-lakshmiJeeva.mp3"
-		},
-		{
-			"id": 9,
-			"title": "Tharapadhamakey -Aiswarya Bimal ECE'22",
-			"duration": "01:56",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/09-tarapadhamakey-aiswarya.mp3"
-		},
-		{
-			"id": 10,
-			"title": "Khairiyat - Anurag MR MECH'21",
-			"duration": "01:48",
-			"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/10-khairiyat-anurag.mp3"
-		}
-	]
-}
+		"playlistID": 2,
+		"isPublished": false,
+		"title": "Playlist of TKM #2",
+		"slug": "playlist-of-tkm-two",
+		"content": "Playlist Two",
+		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
+		"songs": [{
+				"id": 1,
+				"title": "All of the stars - Aparna Ajayy EEE'22",
+				"duration": "01:58",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/01-all-stars-aparna.mp3"
+			},
+			{
+				"id": 2,
+				"title": "Vaathil Melle - Amalu B Krishn EC'20",
+				"duration": "01:06",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/02-vaathil-melle-amalu.mp3"
+			},
+			{
+				"id": 3,
+				"title": "Vathikalu Vellaripravu - Saipriya S ECE'22",
+				"duration": "01:57",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/03-vathikalu-saipriya.mp3"
+			},
+			{
+				"id": 4,
+				"title": "Lailagame Cover- Emil Roy EEE'22",
+				"duration": "03:40",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/04-lilagame-emil.m4a"
+			},
+			{
+				"id": 5,
+				"title": "Aayiram kannumayi - Shwetha Susan Gibu ECE'22",
+				"duration": "02:51",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/05-inbound-swetha.mp3"
+			},
+			{
+				"id": 6,
+				"title": "Humsafar - Nourin N PG Civil",
+				"duration": "01:28",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/06-humsafar-nourin.mp3"
+			},
+			{
+				"id": 7,
+				"title": "Pudhu Vellai Mazhai - Akshay Kannan ECE'22",
+				"duration": "03:23",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/07-puthu-akshay.mp3"
+			},
+			{
+				"id": 8,
+				"title": "Kevala Marthyabhasha Kelkkatha - G Nandagopan EEE'21",
+				"duration": "03:52",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/08-kevala-nandagopan.mp3"
+			},
+			{
+				"id": 9,
+				"title": "Before You Go - Jamie Ann Jacob ECE'23",
+				"duration": "02:23",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/09-okay-jamie.mp3"
+			},
+			{
+				"id": 10,
+				"title": "Raabta Title Track- Shine Kuttus Mech'21",
+				"duration": "02:04",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play2/10-rabta-kuttus.mp3"
+			}
+		]
+	},
+	{
+		"playlistID": 1,
+		"isPublished": true,
+		"title": "Playlist of TKM #1",
+		"slug": "playlist-of-tkm-one",
+		"content": "Playlist One",
+		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
+		"songs": [{
+				"id": 1,
+				"title": "Six feet - Gayathri R Serji CE'22",
+				"duration": "02:00",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/01-Sixfeet-GayathriSerji.mp3"
+			},
+			{
+				"id": 2,
+				"title": "Mizhiyariyaathe - Vishnupriya KJ EEE'21",
+				"duration": "01:27",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/02-Kanchimmyio-vishnuPriya.mp3"
+			},
+			{
+				"id": 3,
+				"title": "Nee Himamazhayayi - Swati S Nair CS'22",
+				"duration": "02:08",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/03-neeHimamazha-swathi.mp3"
+			},
+			{
+				"id": 4,
+				"title": "Cherathukal - Abinsob A B-Arch'21",
+				"duration": "01:49",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/04-cherathukal-abinsob.mp3"
+			},
+			{
+				"id": 5,
+				"title": "Mizhiyoram - Sreeparvathy P L ECE'22",
+				"duration": "02:18",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/05-mizhiyoram-SP.mp3"
+			},
+			{
+				"id": 6,
+				"title": "Tere Bin - Midhun Surendran  MP'20",
+				"duration": "01:19",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/06-terebin-midhun.mp3"
+			},
+			{
+				"id": 7,
+				"title": "Pal -Lekshmi S Lal CHE'23",
+				"duration": "03:32",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/07-pal-lakshmiLal.mp3"
+			},
+			{
+				"id": 8,
+				"title": "Speechless-Lakshmi S Jeeva ECE'23",
+				"duration": "03:27",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/08-speechless-lakshmiJeeva.mp3"
+			},
+			{
+				"id": 9,
+				"title": "Tharapadhamakey -Aiswarya Bimal ECE'22",
+				"duration": "01:56",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/09-tarapadhamakey-aiswarya.mp3"
+			},
+			{
+				"id": 10,
+				"title": "Khairiyat - Anurag MR MECH'21",
+				"duration": "01:48",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play-1/10-khairiyat-anurag.mp3"
+			}
+		]
+	}
 
 ]
