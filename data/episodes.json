@@ -1,5 +1,17 @@
 [ 
      {
+       "id": 5,
+      "title":"A Tale of Triumph",
+      "slug": "a-tale-of-triumph",
+      "isEventPublished":true,
+      "publishedAtDate":"2020-08-27",
+      "publishedAtTime":"19:20:00",
+      "content": "From under the minarets of TKM to the corridors of Indian administrative system, Veena Suthan has come a long way. She had cemented her name in the pages of TKM's history by winning the vice-chairperson post as an independent candidate. A feat that resonates to the entire TKM that hardwork gets you what you want. The fruits of her sheer determination doesn't stop there, on top of securing UPSC AIR of 299 in 2018, she has gone on and secured UPSC AIR of 124 in 2019 and continues to make TKM proud.",
+      "URL": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-9/96971019-44100-2-61f7429daa26a.m4a",
+      "duration" :"23:41",
+      "cover" : "https://bmnidhin.github.io/t4lk-static/s1/s5.jpg"
+    },
+     {
        "id": 4,
       "title":"Pani Varunnund Avarachaa",
       "slug": "pani-varunnund-avarachaa",
