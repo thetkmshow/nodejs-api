@@ -161,11 +161,11 @@
 		]
 	}, {
 		"playlistID": 2,
-		"isPublished": false,
+		"isPublished": true,
 		"title": "Playlist of TKM #2",
 		"slug": "playlist-of-tkm-two",
 		"content": "Playlist Two",
-		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
+		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl2.jpg",
 		"songs": [{
 				"id": 1,
 				"title": "All of the stars - Aparna Ajayy EEE'22",
