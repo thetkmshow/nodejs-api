@@ -88,76 +88,48 @@
 		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/pl1.jpg",
 		"songs": [{
 				"id": 1,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 2,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 3,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 4,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 5,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 6,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 7,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 8,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 9,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 10,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
-			},
-			{
-				"id": 11,
 				"title": "Kanamni Anbodu - Aishwarya EC'22",
 				"duration": "02:21",
 				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play3/01-kanmani-aishwarya.mp3"
 			},
 			{
-				"id": 12,
+				"id": 2,
 				"title": "Kukkikuri -Sonu CHE'20",
 				"duration": "02:21",
 				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play3/02-kukkikuruki-sonu.mp4"
+			},
+			{
+				"id": 3,
+				"title": "Netru Illaatha Maatram - NEERAJA VM ARCH'24",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 4,
+				"title": "Chaanjadi Aadi - Sreelekshmi NS ECE '23",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 5,
+				"title": "Devi Aathmaraagam - Abinsob AB ARCH'21",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 6,
+				"title": "Nila Kagirath - Chithra Vinod ECE'23",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 7,
+				"title": " - Swaraj VS ECE'22",
+				"duration": " ",
+				"audio": " "
 			}
+			
+			
 		]
 	}, {
 		"playlistID": 2,
