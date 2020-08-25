@@ -81,7 +81,7 @@
 	},
 	{
 		"playlistID": 4,
-		"isPublished": false,
+		"isPublished": true,
 		"title": "Playlist of TKM #3",
 		"slug": "playlist-of-tkm-three",
 		"content": "Playlist Three",
