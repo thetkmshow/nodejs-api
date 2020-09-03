@@ -79,6 +79,87 @@
 			}
 		]
 	},
+ {
+		"playlistID": 5,
+		"isPublished": false,
+		"title": "Onam Playlist | Onam Songs",
+		"slug": "onam-playlist",
+		"content": "",
+		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/onpl.jpg",
+		"songs": [{
+				"id": 1,
+				"title": "",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 2,
+				"title": "Keranirakaladum - Aishwarya Bimal EC22",
+				"duration": "02:14",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/keranira-aishwarya.mp4"
+			},
+			{
+				"id": 3,
+				"title": "Poovili - MajestiCS",
+				"duration": "02:21",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/onam-mix-varsha.mp3"
+			},
+			{
+				"id": 4,
+				"title": "Onappattin - Sandra George CE21 RIT Kottayam",
+				"duration": "01:15",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/onapattin-samuel.mp3"
+			},
+			{
+				"id": 5,
+				"title": "Paraniraye - Lyrics Paul Arch23",
+				"duration": "02:30",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/para-lyrics.mp3"
+			},
+			{
+				"id": 6,
+				"title": "Sreeragamo - Chitra Vinod",
+				"duration": "01:39",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/sreeragam-chithra.mp3"
+			},
+			{
+				"id": 7,
+				"title": "Thiruvona Pulari - Saipriya EC22",
+				"duration": "03:14",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/thiruvona-pulari-sai.mpeg"
+			},
+			{
+				"id": 8,
+				"title": "Uthrada Poonilave - Gokul S M3",
+				"duration": "02:48",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/utradapoonilave-gokul.mp3"
+			},
+			{
+				"id": 9,
+				"title": " ",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 10,
+				"title": " ",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 11,
+				"title": " ",
+				"duration": " ",
+				"audio": " "
+			},
+			{
+				"id": 12,
+				"title": " ",
+				"duration": " ",
+				"audio": " "
+			}
+		]
+	},
 	{
 		"playlistID": 4,
 		"isPublished": true,
