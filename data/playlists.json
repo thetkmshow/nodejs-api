@@ -88,9 +88,9 @@
 		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/onpl.jpg",
 		"songs": [{
 				"id": 1,
-				"title": "",
-				"duration": " ",
-				"audio": " "
+				"title": "Aalayal - Sreelakshmi NS",
+				"duration": "02:06",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/aalayal-sreelakshmi.mp4"
 			},
 			{
 				"id": 2,
@@ -136,9 +136,9 @@
 			},
 			{
 				"id": 9,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
+				"title": "Paraniraye - Swaraj EC22",
+				"duration": "03:03",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/paraniraye-swaraj.mpeg"
 			},
 			{
 				"id": 10,
