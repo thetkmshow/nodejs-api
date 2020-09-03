@@ -88,7 +88,7 @@
 		"album-art": "https://bmnidhin.github.io/t4lk-static/s1/onpl.jpg",
 		"songs": [{
 				"id": 1,
-				"title": "Aalayal - Sreelakshmi NS",
+				"title": "Aalayal - Sreelakshmi NS EC23",
 				"duration": "02:06",
 				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/aalayal-sreelakshmi.mp4"
 			},
@@ -118,7 +118,7 @@
 			},
 			{
 				"id": 6,
-				"title": "Sreeragamo - Chitra Vinod",
+				"title": "Sreeragamo - Chitra Vinod EC23",
 				"duration": "01:39",
 				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/onam-pl/sreeragam-chithra.mp3"
 			},
