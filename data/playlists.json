@@ -72,10 +72,10 @@
 				"audio": " "
 			},
 			{
-				"id": 12,
-				"title": " ",
-				"duration": " ",
-				"audio": " "
+				"id": 8,
+				"title": "Dynamite BTS- M S SREEBHAGYA ARCH'24",
+				"duration": "03:20",
+				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play3/dynamite-sreebhagya.mp3"
 			}
 		]
 	},
@@ -190,13 +190,8 @@
 				"title": "Nee Uranguvolam- Swaraj VS ECE'22",
 				"duration": "02:07",
 				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play3/07-swaraj.aac"
-			},
-			  {
-				"id": 8,
-				"title": "Dynamite BTS- M S SREEBHAGYA ARCH'24",
-				"duration": "03:20",
-				"audio": "https://bmnidhin.github.io/t4lk-static/playlist/play3/dynamite-sreebhagya.mp3"
 			}
+			  
 			
 			
 		]
