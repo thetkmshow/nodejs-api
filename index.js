@@ -10,7 +10,9 @@ let posts = require(episodes)
 let playlist = require(crowd)
 let notifications = require("./data/notifications.json")
 let settings = require("./data/settings.json")
-
+let clubs = require("./data/club.json")
+let featured = require("./data/featured.json")
+let promo =require("./data/promo.json")
 
 app.use(cors());
 // Body parser
@@ -51,6 +53,32 @@ app.get('/playlist/:slug',  function (req, res) {
     res.json(row)
     
 })
+
+app.get("/clubs", function(req, res, next) {
+
+  res.json(clubs);
+});
+/* A post by id */
+app.get('/clubs/:slug',  function (req, res) {
+  const slug = req.params.slug
+  const row = clubs.find(r => r.slug == slug)  
+  
+  res.json(row)
+  
+})
+/* A post by id */
+app.get('/featured/',  function (req, res) {
+   res.json(featured)
+})
+
+app.get('/promo/:slug',  function (req, res) {
+  const slug = req.params.slug
+  const row = promo.find(r => r.slug == slug)  
+  
+  res.json(row)
+  
+})
+
 
 app.get("/settings", function(req, res, next) {
 
