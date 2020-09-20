@@ -2,11 +2,11 @@
 [
     { 
       "isCountDownOrStreamingLiveActive": true,
-      "upComingEventName": "ketOnam",
-      "countDownDate":"2020-08-31",
+      "upComingEventName": "Grease Mud Glory",
+      "countDownDate":"2020-09-20",
       "countDownTime":"19:00:00",
-      "posterImgOne":"https://bmnidhin.github.io/t4lk-static/onamps.jpg",
-      "posterImgTwo":"https://bmnidhin.github.io/t4lk-static/poster/gaya3.jpg",
+      "posterImgOne":"https://raw.githubusercontent.com/bmnidhin/t4lk-static/master/poster/sae.jpg?token=AC26SHGP5JG7EAZRTAZMSTC7OBNGW",
+      "posterImgTwo":"https://bmnidhin.github.io/t4lk-static/onamps.jpg",
       
        
       "isPostersShown":true,
