@@ -1,13 +1,15 @@
 [ {
-    "id": 1,
-   "title":"Promo Content",
+   "id": 1,
+   "title":"Promo Content for SAE TKMCE",
    "slug": "ketonam",
-   "isEventPublished":true,
-   "publishedAtDate":"2020-08-31",
-   "publishedAtTime":"19:40:00",
-   "content": "It's that time of the year where every malayali comes together to celebrate. Men in mundu, saree clad women, sadhya, pookkalam and what not, Onam is just downright special.The TKM Show in association with Samskrithi TKMCE brings you a fun filled onam episode to keep you entertained as we riddle our participants through some entertaining tasks",
-   "URL": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-31/777e8b0c-5a63-93b2-8dc8-54ceec57034e.mp3",
-   "duration" :"40:48",
-   "cover" : "https://bmnidhin.github.io/t4lk-static/s1/onam.jpg"
+   "hasBanner":"true",
+   "bannerContent":{
+    "subOne":"Read",
+    "heading":"Magazine Name by Mechanical Department Published",
+    "subTwo":"",
+    "link":"p/kettonam"},
+    "hasYoutube":"true",
+    "youtubeLink":"true"
+
  }
 ]
