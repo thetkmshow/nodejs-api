@@ -38,6 +38,16 @@
             "methods": ["GET"]
           },
           {
+            "src": "/alltracks",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/alltracks/(?<slug>[^/]+)",
+            "dest": "/index.js",
+            "methods": ["GET"]
+          },
+          {
             "src": "/promo/(?<slug>[^/]+)",
             "dest": "/index.js",
             "methods": ["GET"]

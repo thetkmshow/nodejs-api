@@ -13,6 +13,7 @@ let settings = require("./data/settings.json")
 let clubs = require("./data/club.json")
 let featured = require("./data/featured.json")
 let promo =require("./data/promo.json")
+let all =require("./data/alltracks.json")
 
 app.use(cors());
 // Body parser
@@ -78,6 +79,19 @@ app.get('/promo/:slug',  function (req, res) {
   res.json(row)
   
 })
+/* A post by id */
+app.get('/alltracks/',  function (req, res) {
+  res.json(all)
+})
+
+app.get('/alltracks/:slug',  function (req, res) {
+ const slug = req.params.slug
+ const row = all.find(r => r.slug == slug)  
+ 
+ res.json(row)
+ 
+})
+
 
 
 app.get("/settings", function(req, res, next) {
