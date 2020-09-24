@@ -1,39 +1,4 @@
-[ {
-    "id": 7,
-   "title":"Featured",
-   "slug": "ketonam",
-   "isEventPublished":true,
-   "publishedAtDate":"2020-08-31",
-   "publishedAtTime":"19:40:00",
-   "content": "It's that time of the year where every malayali comes together to celebrate. Men in mundu, saree clad women, sadhya, pookkalam and what not, Onam is just downright special.The TKM Show in association with Samskrithi TKMCE brings you a fun filled onam episode to keep you entertained as we riddle our participants through some entertaining tasks",
-   "URL": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-31/777e8b0c-5a63-93b2-8dc8-54ceec57034e.mp3",
-   "duration" :"40:48",
-   "cover" : "https://bmnidhin.github.io/t4lk-static/s1/onam.jpg"
- },
-    {
-    "id": 6,
-   "title":"Roast Roasting Roasted",
-   "slug": "roast-roasting-roasted",
-   "isEventPublished":true,
-   "publishedAtDate":"2020-08-17",
-   "publishedAtTime":"19:23:00",
-   "content": "Our society is on a path towards change yet there exists numerous stereotypes and gender discrimination that needs to be addressed. Defamation of feminism, LGBTQ+ rights, pre-marital relationships, the list goes on. It's high time we engaged in conversations that raised awareness. The TKM Show brings to you an interactive session that tackles stereotypes and discuss the importance of eradicating them. ",
-   "URL": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-17/0384b642-5d9e-bccc-a91b-91a1eccfb829.mp3",
-   "duration" :"23:22",
-   "cover" : "https://bmnidhin.github.io/t4lk-static/ep6.jpg"
- },
-  {
-    "id": 5,
-   "title":"A Tale of Triumph",
-   "slug": "a-tale-of-triumph",
-   "isEventPublished":true,
-   "publishedAtDate":"2020-08-10",
-   "publishedAtTime":"19:20:00",
-   "content": "From under the minarets of TKM to the corridors of Indian administrative system, Veena Suthan has come a long way. She had cemented her name in the pages of TKM's history by winning the vice-chairperson post as an independent candidate. A feat that resonates to the entire TKM that hardwork gets you what you want. The fruits of her sheer determination doesn't stop there, on top of securing UPSC AIR of 299 in 2018, she has gone on and secured UPSC AIR of 124 in 2019 and continues to make TKM proud.",
-   "URL": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-9/96971019-44100-2-61f7429daa26a.m4a",
-   "duration" :"23:41",
-   "cover" : "https://bmnidhin.github.io/t4lk-static/s1/s5.jpg"
- },
+[
   {
     "id": 4,
    "title":"Pani Varunnund Avarachaa",
